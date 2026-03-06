@@ -147,7 +147,7 @@ AppleSignIn.deleteAccount({ backendURL: 'https://yourbackend.com/apple/revoke' }
 
 ### Backend Helpers
 
-The module provides the necessary backend implementations in [Python](https://github.com/deckameron/Titanium-Apple-Sign-In/tree/master/example/backends/python), [Node.js](https://github.com/deckameron/Titanium-Apple-Sign-In/tree/master/example/backends/node) and [PHP](https://github.com/deckameron/Titanium-Apple-Sign-In/tree/master/example/backends/php). Also the [documentation](https://github.com/deckameron/Titanium-Apple-Sign-In/tree/master/documentation/APPLE_CREDENTIALS.md) showing how to get the necessary keys and ids.
+The module provides the necessary backend implementations in [Python](https://github.com/deckameron/Titanium-Apple-Sign-In/tree/master/example/backends/python), [Node.js](https://github.com/deckameron/Titanium-Apple-Sign-In/tree/master/example/backends/node) and [PHP](https://github.com/deckameron/Titanium-Apple-Sign-In/tree/master/example/backends/php). Also the [documentation](https://github.com/deckameron/Titanium-Apple-Sign-In/blob/master/documentation/APPLE_CREDENTIALS.md) showing how to get the necessary keys and ids.
 
 ---
 
