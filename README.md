@@ -1,4 +1,6 @@
-# Apple Sign In in Titanium [![Build Status](https://jenkins.appcelerator.org/buildStatus/icon?job=modules%2Ftitanium-apple-sign-in%2Fmaster)](https://jenkins.appcelerator.org/job/modules/job/titanium-apple-sign-in/job/master/) [![@titanium-sdk/ti.applesignin](https://img.shields.io/npm/v/@titanium-sdk/ti.applesignin.png)](https://www.npmjs.com/package/@titanium-sdk/ti.applesignin)
+# Apple Sign In in Titanium
+
+![Titanium](https://img.shields.io/badge/Titanium-13.1+-red.svg) ![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)
 
 Full support for Apple Sign In with Titanium.
 
